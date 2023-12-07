@@ -5,7 +5,7 @@ This is my portfolio
 - Supervised
 - Unsupervised
 //
-Data Engineering	
++Data Engineering	
 	-Using SDG		
 	-Using Retail Store Systems
 			
