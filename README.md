@@ -6,7 +6,7 @@ This is my portfolio
 - Unsupervised
 
 <p>Data Engineering</p>	
-<p>-Using SDG		
+<p>-Using SDG\		
 	-Using Retail Store Systems</p>
  
 			
