@@ -2,8 +2,10 @@
 This is my portfolio
 
 [Machine Learning](https://github.com/maredep/machine-learning-PET_ADC-dataset)
+- Supervised
+- Unsupervised
 
-Complete ERD to Dashboard	
+Data Engineering	
 	-Using SDG		
 	-Using Retail Store Systems
 			
