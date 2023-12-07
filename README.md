@@ -6,8 +6,9 @@ This is my portfolio
 - Unsupervised
 
 <p>Data Engineering</p>	
-	-Using SDG		
-	-Using Retail Store Systems
+<p>-Using SDG		
+	-Using Retail Store Systems</p>
+ 
 			
 Partly			
 	ERD		
