@@ -3,9 +3,11 @@ This is my portfolio
 
 [Machine Learning](https://github.com/maredep/machine-learning-PET_ADC-dataset)
 
-<ul>Complete ERD to Dashboard</ul>			
-	<ul>Using SDG<li>		
-	<ul>Using Retail Store Systems<li>		
+Complete ERD to Dashboard	
+	<ul>
+	<li>Using SDG</li>		
+	<li>Using Retail Store Systems</li>
+	</ul>
 			
 Partly			
 	ERD		
