@@ -4,8 +4,8 @@ This is my portfolio
 [Machine Learning](https://github.com/maredep/machine-learning-PET_ADC-dataset)
 
 Complete ERD to Dashboard			
-	<ul>Using SDG		
-	Using Retail Store Systems<li>		
+	<ul>Using SDG<li>		
+	<ul>Using Retail Store Systems<li>		
 			
 Partly			
 	ERD		
