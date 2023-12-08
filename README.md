@@ -46,8 +46,8 @@ Welcome to my portfolio! I am Marlon. I am a passionate and results-driven data 
 - **Log Management:** ELK Stack
 - **Containerization:** Docker
 
-[Machine Learning](https://github.com/maredep/machine-learning-PET_ADC-dataset)
-- **Supervised:** [Image Classification](https://github.com/maredep/image-classification-tensorflow-keras-CIFAR/blob/1fd7fcbd176c8c328d1ebf0dafe3f65fd36a7fdc/README.md)
+### Machine Learning
+- **Supervised:** [Image Classification](https://github.com/maredep/image-classification-tensorflow-keras-CIFAR/blob/1fd7fcbd176c8c328d1ebf0dafe3f65fd36a7fdc/README.md),[Binary Classification and Comparison of All Models](https://github.com/maredep/machine-learning-PET_ADC-dataset) 
 - Unsupervised
 
 <p>Data Engineering</p>	
