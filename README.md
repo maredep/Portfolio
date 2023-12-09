@@ -89,5 +89,8 @@ Welcome to my portfolio! I am Marlon. I am a passionate and results-driven data 
 - **XML, JSON**
 - **Unstructured & Semistructure**
 
+## Statistical Modeling
+- **Time Series**
+
 
 
