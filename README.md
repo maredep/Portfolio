@@ -46,63 +46,48 @@ Welcome to my portfolio! I am Marlon. I am a passionate and results-driven data 
 - **Log Management:** ELK Stack
 - **Containerization:** Docker
 
-### Machine Learning
-- **Supervised:** [Image Classification](https://github.com/maredep/image-classification-tensorflow-keras-CIFAR/blob/1fd7fcbd176c8c328d1ebf0dafe3f65fd36a7fdc/README.md) , [Binary Classification and Comparison of All Models](https://github.com/maredep/machine-learning-PET_ADC-dataset) 
-- Unsupervised
+## Machine Learning
+### Supervised 
+[Image Classification](https://github.com/maredep/image-classification-tensorflow-keras-CIFAR/blob/1fd7fcbd176c8c328d1ebf0dafe3f65fd36a7fdc/README.md) , [Binary Classification and Comparison of All Models](https://github.com/maredep/machine-learning-PET_ADC-dataset) 
+### Unsupervised
 
-<p>Data Engineering</p>	
-<p>-Using SDG\		
-	-Using Retail Store Systems</p>
- 
-			
-Partly			
-	ERD		
-	Normalization Process and Model		
-		Normal Form	
-	ETL or Data Integration		
-		ETL Pipeline	
-			Python-SQL
-			ETL Roadmap
-		ELT	
-	Dimensional Modeling		
-		Dimension Normal Form	
-		Strar Schema Modeling	
-		Snowflake Modeling	
-	Data Marts to Power BI		
-	Power BI to Website		
-	Power BI to Mobile		
-			
-	Data Sourcing 		
-		Webscraping	
-		API	
-	Data		
-		Structured	
-		Unstructured	
-		Semistructured	
-	SQL		
-		CRUD	
-		Data Manipulation	
-		Loading and Inserting Data	
-		Materialize View	
-			Query Fact Table
-		Simulate on other RDBMS	
-	Python		
-		EDA	
-		Machine Learning	
-		Deep Learning	
-			NLP
-			Image Classification
-			Generative AI
-		Loading and Inserting Data with SQL	
-			
-	Data Governance		
-	Data Visualization 		
-		Excel	
-		Power BI	
-		Tableau	
-	Data Analysis (Excel and Python)		
-		Descriptive	
-		Diagnostic	
-		Predictive	
-		Prescriptive	
+## Data Engineering	
+### Data Modeling (OLAP and OLTP)
+- **Retail Store Analysis System**
+- **Sustainable Development Goals**
+- **Snowflake**
+- **AWS Redshift**
+### Data Preprocessing and Integration
+- **ETL/ELT**
+- **ETL Roadmap**
+- **Data Pipeline**
+- **Data Preprocessing**
+- **EDA**
+### Data Collection
+- **Webscraping**
+- **API**
+### Data Visualization
+- **Power BI**
+- **Tableau**
+- **Data Marts to Visualization Tool**
+- **Python**
+### Data Analysis
+- **Descriptive**
+- **Diagnostic**
+- **Predictive**
+- **Prescriptive**
+### Data Governance
+## Skills
+### Python
+### SQL (PostgreSQL)
+- **CRUD**
+- **Data Manipulation**
+- **Materialize View / Query Fact Table**
+- **Other RDBMS (MySQL, SQLite)**
+### Other
+- **MongoDB**
+- **XML, JSON**
+- **Unstructured & Semistructure**
+
+
 
