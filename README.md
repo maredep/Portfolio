@@ -2,9 +2,8 @@
 
 Welcome to my portfolio! I am Marlon. I am a passionate and results-driven data engineer with a strong background in designing and implementing robust data infrastructure. My expertise lies in developing scalable solutions for data storage, processing, and analysis. I thrive on solving complex problems and optimizing data workflows to deliver actionable insights.
 
-# Projects
-
 ## Machine Learning
+
 - **[Binary Classification for PET-Based Feature](https://github.com/maredep/machine-learning-PET_ADC-dataset)** 
 - **Supervised Learning: Binary Classification using Logistic Regression, RF and SVM for Breast Cancer**
 - **Unsupervised Learning: Kmeans, DBSCAN and Hierarchical Algorithm for Iris Analysis**
