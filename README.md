@@ -27,8 +27,8 @@ Welcome to my portfolio! I am Marlon. I am a passionate and results-driven data 
 - **Hotel, Restaurant and Tourist Spot Webscraping**
 - **API**
 ### Data Visualization
-- **Excel Dashboard for QR Coding Campaign**
-- **Dashboard for Philippine GRDP using Power BI**
+- **Excel Dashboard for QR Coding Campaign** Developed a dashboard using Excel that utilizes charts and graphs to make sense of information from QR code campaigns. It provides a clear and simple way to understand campaign performance, track user engagement, and visualize key metrics, making it easier for users to make informed decisions based on the data.
+- **Dashboard for Philippine GRDP using Power BI** Developed a Dashboard, built with Power BI, is a visual representation of economic data across different regions in the Philippines. It simplifies the understanding of economic trends, growth rates, and regional contributions, providing a user-friendly tool for policymakers and stakeholders to analyze and interpret GRDP information effectively.
 - **Tableau**
 
 ## Skills
