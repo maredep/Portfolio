@@ -1,6 +1,6 @@
 # Portfolio
 
-Welcome to my portfolio! I am Marlon. I am a passionate and results-driven data engineer with a strong background in designing and implementing robust data infrastructure. My expertise lies in developing scalable solutions for data storage, processing, and analysis. I thrive on solving complex problems and optimizing data workflows to deliver actionable insights.
+Welcome to my portfolio! I am Marlon Edepcion. I am a passionate and results-driven data engineer. My expertise lies in developing scalable solutions for data storage, processing, and analysis. I thrive on solving complex problems and optimizing data workflows to deliver actionable insights.
 
 ## Machine Learning
 
