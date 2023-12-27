@@ -4,7 +4,8 @@ Welcome to my portfolio! I am Marlon. I am a passionate and results-driven data 
 
 ## Machine Learning
 
-- **[Binary Classification for PET-Based Feature](https://github.com/maredep/machine-learning-PET_ADC-dataset)** 
+- **[Binary Classification for PET-Based Feature](https://github.com/maredep/machine-learning-PET_ADC-dataset)**
+- **Description:** Creating the best model to harness the information provided by PET to enhance diagnostic or predictive capabilities in a binary decision-making context.
 - **Supervised Learning: Binary Classification using Logistic Regression, RF and SVM for Breast Cancer**
 - **Unsupervised Learning: Kmeans, DBSCAN and Hierarchical Algorithm for Iris Analysis**
 - **Feature Engineering with ADULT Data**
