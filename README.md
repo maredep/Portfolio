@@ -24,7 +24,7 @@ Welcome to my portfolio! I am Marlon. I am a passionate and results-driven data 
 - **Google Playstore Data Preprocessing**
 - **Feature Engineering for Crime Analysis**
 ### Data Collection
-- **Hotel, Restaurant and Tourist Spot Webscraping**
+- **Hotel, Restaurant and Tourist Spot Webscraping** Webscraping using Python and Beautifulsoup for Hotel, Restaurant, and Tourist Spot data involves extracting information from websites related to hospitality and tourism. This process helps gather valuable data such as reviews, ratings, and details about accommodations, dining options, and tourist attractions, enabling businesses and travelers to make informed decisions based on up-to-date information.
 - **API**
 ### Data Visualization
 - **Excel Dashboard for QR Coding Campaign** Developed a dashboard using Excel that utilizes charts and graphs to make sense of information from QR code campaigns. It provides a clear and simple way to understand campaign performance, track user engagement, and visualize key metrics, making it easier for users to make informed decisions based on the data.
