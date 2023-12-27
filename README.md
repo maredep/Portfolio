@@ -10,12 +10,12 @@ Welcome to my portfolio! I am Marlon. I am a passionate and results-driven data 
 - **Feature Engineering with ADULT Data** In feature engineering with ADULT data, we work on improving the information we have about adults. This involves creating new useful features or modifying existing ones to enhance the performance of machine learning models, making them better at tasks like predicting income levels or understanding patterns in the ADULT dataset.
 
 ## Statistical Analysis and Modeling 
-- **Philippine Health Care System**
+- **Philippine Health Care System** Analyzing the Philippine healthcare system involves looking at the numbers and patterns to understand how it works. By using statistical analysis and modeling, we can uncover insights that help improve healthcare strategies, resource allocation, and overall effectiveness in the Philippines.
   
 ## Data Engineering	
 ### Data Modeling (OLAP and OLTP)
-- **Philippine Sustainable Development Goal Data Modeling**
-- **Retail Store Analysis System Data Modeling for Sales and Inventory Analysis and Reporting**
+- **Philippine Sustainable Development Goal Data Modeling** Modeling data related to Philippine Sustainable Development Goals means finding ways to understand and improve the country's progress toward long-term goals like reducing poverty and promoting good health. By using data and models, we can make better decisions to create a sustainable and positive impact on the Philippines' development.
+- **Retail Store Analysis System Data Modeling for Sales and Inventory Analysis and Reporting** The Retail Store Analysis System involves organizing and understanding data to improve sales and inventory management. By creating models that analyze and report on sales and inventory, the system helps businesses make informed decisions, ensuring efficient operations and better customer satisfaction in retail stores.
 ### Data Preprocessing and Integration
 - **Shipper ETL Automation Pipeline**
 - **Car Retail ETL Pipeline for Data Warehousing**
