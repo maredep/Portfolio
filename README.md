@@ -10,7 +10,7 @@ Welcome to my portfolio! I am Marlon. I am a passionate and results-driven data 
 - **Feature Engineering with ADULT Data** In feature engineering with ADULT data, we work on improving the information we have about adults. This involves creating new useful features or modifying existing ones to enhance the performance of machine learning models, making them better at tasks like predicting income levels or understanding patterns in the ADULT dataset.
 
 ## Statistical Analysis and Modeling 
-- **Philippine Health Care System** Analyzing the Philippine healthcare system involves looking at the numbers and patterns to understand how it works. By using statistical analysis and modeling, we can uncover insights that help improve healthcare strategies, resource allocation, and overall effectiveness in the Philippines.
+- **Philippine Health Care System** Analyzing the Philippine healthcare system with Descriptive, Diagnostic, Predictive and Prescriptive Analysis using Excel tools such as Correlation, Linear Regression, Solver, etc. By using statistical analysis and modeling, we can uncover insights that help improve healthcare strategies, resource allocation, and overall effectiveness in the Philippines.
   
 ## Data Engineering	
 ### Data Modeling (OLAP and OLTP)
