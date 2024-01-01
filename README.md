@@ -27,7 +27,7 @@ Welcome to my portfolio! I am Marlon Edepcion. I am a passionate and results-dri
 - **Hotel, Restaurant and Tourist Spot Web scraping** Web scraping using Python and Beautifulsoup for Hotel, Restaurant, and Tourist Spot data involves extracting information from websites related to hospitality and tourism. This process helps gather valuable data such as reviews, ratings, and details about accommodations, dining options, and tourist attractions, enabling businesses and travelers to make informed decisions based on up-to-date information.
 - **API**
 ### Data Visualization
-- **Excel Dashboard for QR Coding Campaign** Developed a dashboard using Excel that utilizes charts and graphs to make sense of information from QR code campaigns. It provides a clear and simple way to understand campaign performance, track user engagement, and visualize key metrics, making it easier for users to make informed decisions based on the data.
+- **[Excel Dashboard for QR Coding Campaign](https://github.com/maredep/data-visualization-dashboard-QR-campaign)** Developed a dashboard using Excel that utilizes charts and graphs to make sense of information from QR code campaigns. It provides a clear and simple way to understand campaign performance, track user engagement, and visualize key metrics, making it easier for users to make informed decisions based on the data.
 - **Dashboard for Philippine GRDP using Power BI** Developed a Dashboard, built with Power BI, for visual representation of economic data across different regions in the Philippines. It simplifies the understanding of economic trends, growth rates, and regional contributions, providing a user-friendly tool for policymakers and stakeholders to analyze and interpret GRDP information effectively.
 - **Tableau**
 
