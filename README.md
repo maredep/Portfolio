@@ -28,7 +28,7 @@ Welcome to my portfolio! I am Marlon Edepcion. I am a passionate and results-dri
 - **API**
 ### Data Visualization
 - **[Excel Dashboard for QR Coding Campaign](https://github.com/maredep/data-visualization-dashboard-QR-campaign)** Developed a dashboard using Excel that utilizes charts and graphs to make sense of information from QR code campaigns. It provides a clear and simple way to understand campaign performance, track user engagement, and visualize key metrics, making it easier for users to make informed decisions based on the data.
-- **Dashboard for Philippine GRDP using Power BI** Developed a Dashboard, built with Power BI, for visual representation of economic data across different regions in the Philippines. It simplifies the understanding of economic trends, growth rates, and regional contributions, providing a user-friendly tool for policymakers and stakeholders to analyze and interpret GRDP information effectively.
+- **[Dashboard for Philippine GRDP using Power BI](https://github.com/maredep/data-visualization-dashboard-Philippine-GRDP.git)** Developed a Dashboard, built with Power BI, for visual representation of economic data across different regions in the Philippines. It simplifies the understanding of economic trends, growth rates, and regional contributions, providing a user-friendly tool for policymakers and stakeholders to analyze and interpret GRDP information effectively.
 - **Tableau**
 
 ## Skills
