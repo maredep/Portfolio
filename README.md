@@ -31,7 +31,7 @@ Welcome to my portfolio! I am Marlon Edepcion. I am a passionate and results-dri
   **2. For Sales Analysis:** A critical step in refining raw sales data to ensure its accuracy and suitability for analytical purposes. This process involves cleaning, transforming, and organizing sales data, addressing issues such as missing values, outliers, and inconsistencies. By preparing the data in a standardized and coherent format, data preprocessing facilitates more accurate and meaningful sales analyses, helping businesses gain valuable insights into their performance and trends.
 
 ### Data Collection
-- **Hotel, Restaurant and Tourist Spot Web scraping** Web scraping using Python and Beautifulsoup for Hotel, Restaurant, and Tourist Spot data involves extracting information from websites related to hospitality and tourism. This process helps gather valuable data such as reviews, ratings, and details about accommodations, dining options, and tourist attractions, enabling businesses and travelers to make informed decisions based on up-to-date information.
+- **[Hotel, Restaurant and Tourist Spot Web scraping](https://github.com/maredep/data-collection-web-scraping.git)** Web scraping using Python and Beautifulsoup for Hotel, Restaurant, and Tourist Spot data involves extracting information from websites related to hospitality and tourism. This process helps gather valuable data such as reviews, ratings, and details about accommodations, dining options, and tourist attractions, enabling businesses and travelers to make informed decisions based on up-to-date information.
 - **API**
 
 ## Skills
