@@ -19,7 +19,7 @@ Welcome to my portfolio! I am Marlon Edepcion. I am a passionate and results-dri
 ### Data Visualization
 - **[Excel Dashboard for QR Coding Campaign](https://github.com/maredep/data-visualization-dashboard-QR-campaign)** Developed a dashboard using Excel that utilizes charts and graphs to make sense of information from QR code campaigns. It provides a clear and simple way to understand campaign performance, track user engagement, and visualize key metrics, making it easier for users to make informed decisions based on the data.
 - **[Dashboard for Philippine GRDP using Power BI](https://github.com/maredep/data-visualization-dashboard-Philippine-GRDP.git)** Developed a Dashboard, built with Power BI, for visual representation of economic data across different regions in the Philippines. It simplifies the understanding of economic trends, growth rates, and regional contributions, providing a user-friendly tool for policymakers and stakeholders to analyze and interpret GRDP information effectively.
-- **Tableau**
+
 ### Data Preprocessing and Integration
 - **[Shipper ETL Automation Pipeline](https://github.com/maredep/ETL-shipper-pipeline.git)** A streamlined and efficient system designed to automate the Extract, Transform, and Load (ETL) process for shipping-related data. By seamlessly extracting information from various sources, transforming it into a unified format, and loading it into a centralized database, this pipeline enhances the speed and accuracy of shipping data management, ultimately optimizing logistics and supply chain operations.
 - **[Feature Engineering for Real Estate Property Analysis](https://github.com/maredep/sql-postgresql-feature-engineering-real-estate-property-sales.git)** Involves the systematic creation and optimization of relevant data attributes using SQL/PostgreSQL to enhance the accuracy of property insights. By extracting meaningful features from raw data, this process enables more effective machine learning models and data analyses, providing valuable information for stakeholders in the real estate industry to make informed decisions about property valuation, market trends, and investment strategies.
@@ -32,7 +32,6 @@ Welcome to my portfolio! I am Marlon Edepcion. I am a passionate and results-dri
 
 ### Data Collection
 - **[Hotel, Restaurant and Tourist Spot Web scraping](https://github.com/maredep/data-collection-web-scraping.git)** Web scraping using Python and Beautifulsoup for Hotel, Restaurant, and Tourist Spot data involves extracting information from websites related to hospitality and tourism. This process helps gather valuable data such as reviews, ratings, and details about accommodations, dining options, and tourist attractions, enabling businesses and travelers to make informed decisions based on up-to-date information.
-- **API**
 
 ## Skills
 ### Python
